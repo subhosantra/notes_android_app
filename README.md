@@ -1,7 +1,5 @@
 # KEEP NOTES Android Application :notebook:
 
-![Keep Notes Android Application](https://github.com/akash2099/Resources/blob/master/Keep_Notes_Android_Application/Keep_Notes_GIF.gif)
-
 ### **Try the [app](https://github.com/akash2099/Resources/blob/master/Keep_Notes_Android_Application/Keep_Notes.apk) yourself :zap:**
 
 ## Features :fire:
